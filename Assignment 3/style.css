@@ -1,0 +1,25 @@
+.form-floating{
+    /* width: 420px; */
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px;
+    margin: 25px;
+    
+}
+
+.btn{
+    width: 100%;
+    height: 50px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
